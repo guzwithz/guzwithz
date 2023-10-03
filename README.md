@@ -1,8 +1,8 @@
-# 💫 Sobre mim:
+# 💫 About Me:
 😺 Olá, tudo bem? me chamno Gustavo, tenho 23 anos!<br>🌍 Sou de Guarapuava, Paraná, Brasil;<br><br>👨‍💻 Estudante de front end, e Ciência da Computação;<br><br>🛠️ Experiência de 2 anos como suporte técnico nivel 1 e 2, e 1 ano como <br>engenheiro de redes em uma empresa de telecomunicações;<br><br>✨ Em busca da primeira oportunidade na área da programação.
 
 
-## 🌐 Redes Sociais:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NHrsMhbZPu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@guzwithz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@guzwithz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@guzwithz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hSzBJJpeH_B50gTGxibTrg) 
 
 # 💻 Tech Stack:
