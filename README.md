@@ -1,7 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+<span align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=<Welcome,+my+name+is+Gustavo+Oliveira.>;)](https://git.io/typing-svg)
+##   
 
+</span>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=<Hi+my+name+is+Gustavo+Oliveira.>;)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="https://github.com/guzwithz/guzwithz/assets/76167679/ec5246be-8fd1-4dd8-95a4-2c00ca50fd94" />
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guzwithz&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=ADD8E6&text_color=c9d1d9&bg_color=0d1117" alt="guzwithz github stats" /> 
