@@ -1,3 +1,4 @@
+
 <span align="center">
 
 ##   
@@ -53,7 +54,7 @@
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guzwithz&bg_color=2a4fb7&color=f2f2f2&line=00008B&point=58aefe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guzwithz&bg_color=000000&color=ffffff&line=080fe2&point=003994&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br>
 
 <div align="center">
