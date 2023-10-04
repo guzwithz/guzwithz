@@ -5,7 +5,7 @@
 
 </span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=<Hi+my+name+is+Gustavo+Oliveira.>;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=<Hi+my+name+is+Gustavo+Oliveira+Helbel.>;)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://github.com/guzwithz/guzwithz/assets/76167679/ec5246be-8fd1-4dd8-95a4-2c00ca50fd94" />
