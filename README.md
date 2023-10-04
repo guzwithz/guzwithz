@@ -37,8 +37,6 @@
 > 🌍 Sou de Guarapuava, Paraná, Brasil
 > 
 > 👩🏻‍💻 Estudante de front end, e Ciência da Computação
->  
-> 🛠️ Experiência de 2 anos como suporte técnico nivel 1 e 2, e 1 ano como <br>engenheiro de redes em uma empresa de telecomunicações
 > 
 > ✨ Em busca da primeira oportunidade na área da programação.
 
