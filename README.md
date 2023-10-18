@@ -34,11 +34,11 @@
 
 > 📌 Tenho 23 anos!
 > 
-> 🌍 Sou de Guarapuava, Paraná, Brasil
+> 🌍 I'm from Guarapuava, Paraná, Brasil
 > 
-> 👩🏻‍💻 Estudante de front end, e Ciência da Computação
+> 👩🏻‍💻 studyng front end, and science of computacion
 > 
-> ✨ Em busca da primeira oportunidade na área da programação.
+> ✨ Looking for the first opportunity in the programming field.
 
 </br>
 </br>
