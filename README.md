@@ -32,7 +32,7 @@
 ## 👋 About me 
 </br>
 
-> 📌 Tenho 23 anos!
+> 📌 I'm 23 years old.
 > 
 > 🌍 I'm from Guarapuava, Paraná, Brasil
 > 
