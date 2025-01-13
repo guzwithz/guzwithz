@@ -32,9 +32,9 @@
 ## 👋 About me 
 </br>
 
-> 📌 I'm 23 years old.
+> 📌 I'm 24 years old.
 > 
-> 🌍 I'm from Guarapuava, Paraná, Brasil
+> 🌍 I'm from Mandaguaçu, Paraná, Brasil
 > 
 > 👩🏻‍💻 studyng front end, and science of computacion
 > 
